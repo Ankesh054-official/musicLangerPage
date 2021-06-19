@@ -1,35 +1,34 @@
 body {
-    background-image: url(singing.jpg);
+    background-image: url(../res/singing.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
-    font-size: 10px;
+    font-size:15px;
 }
 
 input{
     border: white solid 0px;
-    border-radius: 3px;
-}
-
-#registrationForm > input{
+    border-radius: 8px;
     float: right;
-    height: 30px;
+    height: 42px;
     width: 81%;
 }
 
 #registrationForm > input[type="submit"],#registrationForm >  input[type="reset"]{
     float: none;
     width: 48%;
-    font-size: 20px;
+    font-size: 23px;
 }
-
+.container > legend{
+    font-size: 3em;
+}
 .container {
     float: right;
     padding: 15px;
-    width: 600px;
+    width: 860px;
     margin-top: 5em;
     margin-right: 2em;
     background-color: rgba(128, 122, 122, 0.459);
     border-radius: 10px;
     font-size: 3em;
-    height: 320px;
+    height: 461px;
 }
