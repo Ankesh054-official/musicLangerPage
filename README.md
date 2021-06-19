@@ -4,7 +4,6 @@ Table of Contents
    * [Music Theme Registration Form](#Music-Theme-Registration-Form)
    * [Languages and Tools](#Languages-and-Tools)
    * [Screenshots](#Screenshots)
-   * [Check This Out Here.](#Check-This-Out-Here.)
 
 Music Theme Registration Form
 =
