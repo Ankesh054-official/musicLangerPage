@@ -9,7 +9,7 @@ input{
     border-radius: 8px;
     float: right;
     height: 42px;
-    width: 81%;
+    width: 71%;
 }
 
 #registrationForm > input[type="submit"],#registrationForm >  input[type="reset"]{
