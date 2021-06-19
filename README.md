@@ -1,4 +1,12 @@
-Title
+Table of Contents
+=
+
+   * [Music Theme Registration Form](#Music-Theme-Registration-Form)
+   * [Languages and Tools](#Languages-and-Tools)
+   * [Screenshots](#Screenshots)
+   * [Check This Out Here.](#Check-This-Out-Here.)
+
+Music Theme Registration Form
 =
 It is a basic landing page for music theme registration form.
 
@@ -13,3 +21,14 @@ Languages and Tools
 
 <br>
 <br>
+
+Screenshots
+=
+<img height="50" hspace="20"/>
+<p align="center">
+          <img alt="preview_pc" src="https://github.com/Ankesh054-official/music-company-landing-page/blob/master/res/preview.png?raw=true"/>
+</p>
+<br>
+<br>
+[Check This Out Here.](https://ankesh054-official.github.io/music-company-landing-page/)
+=
