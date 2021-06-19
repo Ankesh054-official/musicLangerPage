@@ -1,0 +1,35 @@
+body {
+    background-image: url(singing.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-size: 10px;
+}
+
+input{
+    border: white solid 0px;
+    border-radius: 3px;
+}
+
+#registrationForm > input{
+    float: right;
+    height: 30px;
+    width: 81%;
+}
+
+#registrationForm > input[type="submit"],#registrationForm >  input[type="reset"]{
+    float: none;
+    width: 48%;
+    font-size: 20px;
+}
+
+.container {
+    float: right;
+    padding: 15px;
+    width: 600px;
+    margin-top: 5em;
+    margin-right: 2em;
+    background-color: rgba(128, 122, 122, 0.459);
+    border-radius: 10px;
+    font-size: 3em;
+    height: 320px;
+}
